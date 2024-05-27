@@ -29,7 +29,7 @@ import com.hims.model.OrderCreate;
 import com.hims.model.Orders;
 
 @RestController
-@CrossOrigin(origins = {"https://healthcare-react.onrender.com","http://localhost:3000"}, maxAge = 3600)
+@CrossOrigin
 
 public class Controller {
 	
