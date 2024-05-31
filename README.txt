@@ -54,9 +54,9 @@ Inaccurate inventory management leads to stockouts and increased operational cos
 6.	Architecture Design Guidelines:
   •	Communication: Implement RESTful APIs for communication between the frontend and backend.
   •	Database: Utilize MongoDB for backend data storage.
-  •	Deployment: Host the frontend on Azure web server and deploy backend APIs using Spring Boot.
+  •	Deployment: Host the frontend on a web server and deploy backend APIs using Spring Boot.
 
-Project Deployment(Azure): https://kind-cliff-0cc5e230f.5.azurestaticapps.net
+Project Deployment(Azure): https://sumansom.site
 
 Spring Boot(Backend) Repository: https://github.com/sommaity/Healthcare-Inventory-Management-System
 
